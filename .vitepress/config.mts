@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "NXPlugins",
   description: "Documentación Oficial de Naxito's Studios",
+  base: '/nxplugins-docs/',
   cleanUrls: true,
   lastUpdated: false,
 
