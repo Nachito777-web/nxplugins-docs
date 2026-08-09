@@ -1,6 +1,6 @@
 # NXGuard
 
-<img src="/nxguard.png" alt="NXGuard Logo" width="100" style="margin-bottom: 16px;" />
+![NXGuard Logo](../.vitepress/public/nxguard.png)
 
 **NXGuard** es un plugin para servidores Minecraft que te permite gestionar las flags de tus regiones de WorldGuard de forma visual, sin necesidad de escribir comandos. Todo se hace desde un menú de inventario.
 

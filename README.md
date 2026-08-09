@@ -1,6 +1,6 @@
 # Naxito's Studios — Documentación Oficial
 
-<img src="/logo.png" alt="Naxito's Studios Logo" width="120" style="margin-bottom: 16px;" />
+![Naxito's Studios Logo](.vitepress/public/logo.png)
 
 Bienvenido a la documentación oficial de **Naxito's Studios**. Aquí encontrarás guías detalladas, tutoriales de instalación, listas de comandos, permisos y ejemplos de configuración para todos nuestros plugins de Minecraft (Paper 1.20+).
 
@@ -13,7 +13,7 @@ Bienvenido a la documentación oficial de **Naxito's Studios**. Aquí encontrar�
 
 <br>
 
-<img src="/nxguard.png" alt="NXGuard Logo" width="90" />
+![NXGuard Logo](.vitepress/public/nxguard.png)
 
 **NXGuard** te permite gestionar todas las flags de tus regiones de WorldGuard a través de un menú GUI totalmente visual, sin necesidad de recordar ni escribir comandos complejos.
 
@@ -27,7 +27,7 @@ Bienvenido a la documentación oficial de **Naxito's Studios**. Aquí encontrar�
 
 <br>
 
-<img src="/nxmines.png" alt="NXMines Logo" width="90" />
+![NXMines Logo](.vitepress/public/nxmines.png)
 
 **NXMines** es una solución completa y optimizada para la creación y gestión de minas con reinicios automáticos, composición de bloques por porcentajes y tablas de drops personalizadas.
 
