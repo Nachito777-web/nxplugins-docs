@@ -116,8 +116,8 @@ Se abre desde el botón **Block Composition** del editor.
 | Arrastrar bloque a slot vacío | Añade el bloque a la composición. |
 | Click en un bloque existente | Abre el editor de porcentaje para ese bloque. |
 | Click derecho en un bloque | Elimina ese bloque de la composición. |
-| Click en `✔ Save` (slot 49) | Guarda la composición si el total es 100%. |
-| Click en `✘ Cancel` (slot 53) | Cancela sin guardar. |
+| Click en `Save` (slot 49) | Guarda la composición si el total es 100%. |
+| Click en `Cancel` (slot 53) | Cancela sin guardar. |
 
 ---
 
@@ -141,10 +141,10 @@ Se abre al hacer click derecho en una mina del menú principal, o desde el botó
 
 | Botón | Material | Acción |
 |---|---|---|
-| ✔ Confirm Delete | LIME_STAINED_GLASS_PANE | Elimina permanentemente la mina y todos sus datos. |
-| ✘ Cancel | RED_STAINED_GLASS_PANE | Cancela y regresa al menú anterior. |
+| Confirm Delete | LIME_STAINED_GLASS_PANE | Elimina permanentemente la mina y todos sus datos. |
+| Cancel | RED_STAINED_GLASS_PANE | Cancela y regresa al menú anterior. |
 
-> ⚠ La eliminación de una mina es **permanente** e irreversible. Todos sus datos (composición, drops, región) se borran de la base de datos.
+> **Nota:** La eliminación de una mina es **permanente** e irreversible. Todos sus datos (composición, drops, región) se borran de la base de datos.
 
 ---
 

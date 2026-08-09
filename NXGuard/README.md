@@ -1,5 +1,7 @@
 # NXGuard
 
+<img src="/nxguard.png" alt="NXGuard Logo" width="100" style="margin-bottom: 16px;" />
+
 **NXGuard** es un plugin para servidores Minecraft que te permite gestionar las flags de tus regiones de WorldGuard de forma visual, sin necesidad de escribir comandos. Todo se hace desde un menú de inventario.
 
 ---
@@ -15,9 +17,9 @@ Si usas WorldGuard en tu servidor para proteger zonas (spawn, tiendas, arenas Pv
 - Ver todas las regiones de tu mundo en un menú paginado.
 - Abrir el editor de flags de cualquier región con un click.
 - Ver el estado de cada flag de un vistazo gracias a los colores:
-  - 🟢 **Verde lima** → flag activada
-  - 🔴 **Rojo** → flag desactivada
-  - ⚫ **Gris** → sin valor asignado (usa el comportamiento por defecto de WorldGuard)
+  - **Verde lima** → flag activada (ALLOW)
+  - **Rojo** → flag desactivada (DENY)
+  - **Gris** → sin valor asignado (NONE - usa el comportamiento por defecto de WorldGuard)
 - Activar, desactivar o resetear flags con click izquierdo y derecho.
 - Consultar la información completa de una región por chat.
 - Personalizar títulos, colores y mensajes desde el `config.yml`.

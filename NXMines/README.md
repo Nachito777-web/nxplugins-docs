@@ -1,5 +1,7 @@
 # NXMines
 
+<img src="/nxmines.png" alt="NXMines Logo" width="100" style="margin-bottom: 16px;" />
+
 **NXMines** es un plugin avanzado, modular y altamente configurable de minas para servidores Minecraft Paper 1.20+. Permite crear, gestionar y personalizar minas de minería con reinicio automático, composición de bloques personalizable, tablas de drops por bloque, interfaz gráfica completa y soporte para PlaceholderAPI y Vault.
 
 ---

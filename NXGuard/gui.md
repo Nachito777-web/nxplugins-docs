@@ -84,9 +84,9 @@ Cada flag se muestra con un **tinte de color** según su estado:
 
 | Material | Color | Estado |
 |---|---|---|
-| `LIME_DYE` | 🟢 Verde lima | `ALLOW` — activada explícitamente |
-| `RED_DYE` | 🔴 Rojo | `DENY` — desactivada explícitamente |
-| `GRAY_DYE` | ⚫ Gris | `NONE` — sin valor asignado (usa el default de WorldGuard) |
+| `LIME_DYE` | Verde lima | `ALLOW` — activada explícitamente |
+| `RED_DYE` | Rojo | `DENY` — desactivada explícitamente |
+| `GRAY_DYE` | Gris | `NONE` — sin valor asignado (usa el default de WorldGuard) |
 
 El **lore** de cada flag es dinámico y muestra:
 
